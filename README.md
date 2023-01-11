@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arschat
-- 👀 I’m interested in Biomedical Data Science, Bioinformatics and Data Visualization
+- 👀 I work at EMBL-EBI.
 
 <!---
 arschat/arschat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
