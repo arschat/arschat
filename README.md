@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arschat
-- 👀 I work at EMBL-EBI.
+- 👀 I am currently work at EMBL-EBI, as a Bioinformatician for the HCA Data Repository.
 
 <!---
 arschat/arschat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
